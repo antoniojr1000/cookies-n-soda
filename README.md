@@ -2,7 +2,7 @@
 
 Para utilizar o projeto a seguir é necessário primeiro clonar o repositório, para tal basta em seu terminal executar os seguintes comandos:
 
-1. `git clone https://github.com/ /cookies-n-soda`
+1. `git clone https://github.com/antoniojr1000/cookies-n-soda`
 2. `cd cookies-n-soda`
 
 Este é um projeto feito para representar um sistema teórico de compras de cookies e beidas.
